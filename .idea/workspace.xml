@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6331fe4e-e76e-4502-a0be-0e3e018feadd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/cicd.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nginx/dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nginx/project.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/project.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stocks_products/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/stocks_products/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
